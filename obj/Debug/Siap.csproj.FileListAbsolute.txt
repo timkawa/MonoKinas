@@ -1,0 +1,10 @@
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\bin\Debug\Siap.exe.config
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\bin\Debug\Siap.exe
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\bin\Debug\Siap.pdb
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.csprojResolveAssemblyReference.cache
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.FrmMain.resources
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.Properties.Resources.resources
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.csproj.GenerateResource.Cache
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.csproj.CoreCompileInputs.cache
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.exe
+C:\Users\Qbinary_DC\Documents\Monografia Ti Kina\Siap_Bimo\Siap\obj\Debug\Siap.pdb
